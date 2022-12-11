@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990910677204",
+    "project_id": "batobo-59198",
+    "storage_bucket": "batobo-59198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990910677204:android:52b0a242e23ac66298bb41",
+        "android_client_info": {
+          "package_name": "com.example.batoboapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990910677204-j9r3pnja7ef3273j4mefc5g3kjnmu224.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfQ5RQh-Pt0QAUXI44Eq3jNdLuKzm1t6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990910677204-j9r3pnja7ef3273j4mefc5g3kjnmu224.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

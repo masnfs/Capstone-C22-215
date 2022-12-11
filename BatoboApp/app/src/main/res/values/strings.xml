@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Batobo App</string>
+    <string name="anggota">Bisa diisi harga ataupun anggota kelompok
+    </string>
+    <string name="nomorHp">08123465789</string>
+    <string name="masukkan_nomor_hp">Masukkan Nomor HP</string>
+    <string name="masuk_sini">Masuk Sini</string>
+    <string name="batobo">BATOBO</string>
+    <string name="mau_nyewa_kelompok_tobo">Mau nyewa kelompok tobo?</string>
+    <string name="masuk_sebagai_kelompok">Masuk Sebagai Kelompok</string>
+    <string name="kirim_otp">Kirim OTP</string>
+    <string name="masukkan_kode_otp">Masukkan Kode OTP</string>
+
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="date">Date</string>
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="empty">Field can not be blank</string>
+    <string name="update">Update</string>
+    <string name="change">Ubah</string>
+    <string name="add">Tambah</string>
+    <string name="save">Simpan</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="message_cancel">Apakah anda ingin membatalkan perubahan pada form?</string>
+    <string name="message_delete">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="added">Satu item berhasil ditambahkan</string>
+    <string name="changed">Satu item berhasil diubah</string>
+    <string name="deleted">Satu item berhasil dihapus</string>
+    <string name="phone">Nomor HP</string>
+</resources>
